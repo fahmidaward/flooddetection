@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owt9Bv4VWB04ZB5i7XLYOXLdUom4+UkzDejIGKPaCtxuDfIo01GW2tB33q0gCTOGyVzzRe7Z/nSZOBIefb7enQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fahmida Ward\\source\\repos\\flooddetection\\flooddetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fahmida Ward\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
